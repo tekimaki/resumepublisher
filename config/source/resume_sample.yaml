@@ -1,0 +1,42 @@
+profile:
+  first_name: Jane
+  last_name: Doe
+  salutation:
+  email: j.doe@domain.com
+  phone: 123.456.78910
+  address:
+    street_1: 123 4th Street
+    street_2: Apartment 5
+    city: New York
+    region: New York
+    postalcode: 10001
+    country: United States
+
+summary: >
+
+  I would like a job
+
+skills:
+  - label: Languages & Frameworks
+    description: PHP 
+  - label: Software
+    description: Linux, Apache, Git 
+
+employment:
+  - employer:
+      name: Acme
+      description: Widget Manufacturer 
+      url: http://www.domain.com
+    title: Lead Widget Designer 
+    start_date: January 2000
+    end_date: October 2010
+    summary: I did stuff
+    highlights:
+      - Built widgets on time and within budget
+      - Increased widget orders by 100% in one year
+
+education:
+  - school_name: Widget University
+    start_date: 1990
+    end_date: 1994 
+    summary: Studied hard, did well

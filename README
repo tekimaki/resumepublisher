@@ -1,0 +1,8 @@
+Install instructions: 
+$ git clone git://github.com/tekimaki/resumepublisher.git 
+$ cd resumepublisher
+$ git submodule update --init
+
+Usage:
+$ ./publish.php config/source/resume_sample.yaml . html
+$ vi ./resume.html

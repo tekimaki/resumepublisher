@@ -1,0 +1,6 @@
+[submodule "externals/spyc"]
+	path = externals/spyc
+	url = git://github.com/tekimaki/spyc.git
+[submodule "externals/smarty"]
+	path = externals/smarty
+	url = git://github.com/tekimaki/smarty.git
